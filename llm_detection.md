@@ -1,10 +1,3 @@
-##### Authors view: 
-  - I dont think we would benefit from using whitebox methods for detection. We would be better off using blackbox methods.
-  - GptZero uses perplexity scores, burstiness analysis, Deep Learning etc and some other algorithms. Thus it is a good start.
-  - For us it would be better to start with statistical methods and Using a fine tuned BERT model. Then we may go for more advanced methods like custom deep learning models.
-  - We also have DetectGPT, Zippy and other open source tools that we can use for reverse engineering.
-  - DetectGPT's success rate is 95% and RoBERTa is 98.43% and 99.79% for sentence and paragraph level detection. So for startes we can aim for 80-90% accuracy (theoretically). But for now, we can start with 50-60% accuracy.
-
 # LLM Detection Guide
 
 ## Overview
