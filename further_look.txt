@@ -1,0 +1,17 @@
+# Further Resources
+
+## Code Examples & Implementations
+- https://github.com/jwkirchenbauer/lm-watermarking
+- https://github.com/NLP2CT/LLM-generated-Text-Detection
+- https://github.com/beingamanforever/LLM-Text-Detection
+- https://github.com/thinkst/zippy
+- https://github.com/junchaoIU/GECScore
+- https://github.com/Vidhi1290/LLM---Detect-AI-Generated-Text 
+- https://github.com/IBM/RADAR
+- https://github.com/eric-mitchell/detect-gpt
+- https://github.com/BurhanUlTayyab/GPTZero
+
+## Demo & Research
+- https://huggingface.co/spaces/tomg-group-umd/lm-watermarking
+- https://towardsdatascience.com/challenges-of-detecting-ai-generated-text-6d85bf779448
+- Paper: AuthentiGPT: Detecting Machine-Generated Text via Black-Box Language Models Denoising
