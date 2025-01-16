@@ -13,5 +13,6 @@
 
 ## Demo & Research
 - https://huggingface.co/spaces/tomg-group-umd/lm-watermarking
+- https://huggingface.co/openai-community/roberta-base-openai-detector
 - https://towardsdatascience.com/challenges-of-detecting-ai-generated-text-6d85bf779448
 - Paper: AuthentiGPT: Detecting Machine-Generated Text via Black-Box Language Models Denoising
