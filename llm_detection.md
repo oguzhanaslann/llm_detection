@@ -170,7 +170,9 @@ https://huggingface.co/SuperAnnotate/ai-detector
 https://huggingface.co/openai-community/roberta-large-openai-detector
 https://huggingface.co/microsoft/deberta-v3-base -> improved roberta
 https://huggingface.co/spaces/SzegedAI/AI_Detector/blob/main/app.py
-https://huggingface.co/answerdotai/ModernBERT-base -> to finetune
+https://huggingface.co/spaces/Toughen1/AI_Detector/tree/main
+https://huggingface.co/answerdotai/ModernBERT-base -> to finetune --> uses : https://huggingface.co/mihalykiss/modernbert_2/tree/main
+https://huggingface.co/FacebookAI/roberta-large
 
 # Data Sets
 https://huggingface.co/datasets/Ateeqq/AI-and-Human-Generated-Text
