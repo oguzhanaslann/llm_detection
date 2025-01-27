@@ -173,6 +173,7 @@ https://huggingface.co/spaces/SzegedAI/AI_Detector/blob/main/app.py
 https://huggingface.co/spaces/Toughen1/AI_Detector/tree/main
 https://huggingface.co/answerdotai/ModernBERT-base -> to finetune --> uses : https://huggingface.co/mihalykiss/modernbert_2/tree/main
 https://huggingface.co/FacebookAI/roberta-large
+https://huggingface.co/spaces/openai/openai-detector
 
 # Data Sets
 https://huggingface.co/datasets/Ateeqq/AI-and-Human-Generated-Text
